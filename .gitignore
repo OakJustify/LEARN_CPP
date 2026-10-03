@@ -3,6 +3,7 @@
 *.out
 kalkulator
 a.out
+plusify
 
 # file sementara editor / OS
 .vscode/
