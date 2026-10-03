@@ -1,0 +1,11 @@
+# hasil compile — jangan pernah di-commit
+*.exe
+*.out
+kalkulator
+a.out
+
+# file sementara editor / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
